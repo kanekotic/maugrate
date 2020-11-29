@@ -1,0 +1,2 @@
+# maugrate
+peewee manual migrate
